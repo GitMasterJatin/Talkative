@@ -5,7 +5,7 @@ Users can chat one-on-one or in groups, search other users, and stay connected w
 
 ---
 
-## 🚀 Features
+## Features
 
 - 🔐 **Authentication & Authorization**
   - Secure login & signup with JWT
